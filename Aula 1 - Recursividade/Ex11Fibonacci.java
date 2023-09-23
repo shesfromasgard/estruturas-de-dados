@@ -8,7 +8,7 @@ public class Ex11Fibonacci {
             return n;
         }
 
-        return fibonacci(n -1) + fibonacci(n - 2);
+        return fibonacci(n - 1) + fibonacci(n - 2);
 
     }
 
